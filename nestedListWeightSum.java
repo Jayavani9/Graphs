@@ -1,5 +1,7 @@
 //https://leetcode.com/problems/nested-list-weight-sum/
 
+
+Using BFS(Queue)
 class Solution {
     public int depthSum(List<NestedInteger> nestedList) {
         //Tc: O(n) Sc: O(n)
